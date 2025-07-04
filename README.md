@@ -40,6 +40,8 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakindu1234&layout=compact&langs_count=8)
+
 ## 🌱 Now
 
 - 🚀 Improving in **Adavance Python ** 
