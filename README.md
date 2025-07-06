@@ -1,4 +1,4 @@
-# Hey there, I'm lakidu Minosha !👋
+# Hey there, I'm Lakidu Minosha !👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3FF3A7&vCenter=true&width=480&lines=Fullstack+%7C+AI%2FML+%7C+Cloud" alt="Typing SVG" />
