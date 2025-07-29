@@ -69,7 +69,7 @@
 - 📌 Advancing in **Advanced Python & Automation**
 - ☁️ Learning **Cloud Fundamentals + DevOps Pipelines**
 - 🤖 Improving **ML-powered Job Recommendation Systems**
-- 🐧 Mastering **Linux Shell & Networking Essentials**
+
 
 ---
 
