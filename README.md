@@ -14,7 +14,6 @@
 
 - 🎓 **Undergraduate** @ University of Westminster  
 - 🧠 Passionate about turning **ideas into code**  
-- 💻 Building **Fullstack Web & Mobile Apps**  
 - ⚙️ Strong in **scalable backend systems**, and automation  
 - ☁️ Exploring the world of **Cloud, DevOps & AI/ML**  
 - 📬 Reach me at: `lakindumax20062006@gmail.com`
@@ -68,7 +67,7 @@
 
 - 📌 Advancing in **Advanced Python & Automation**
 - ☁️ Learning **Cloud Fundamentals + DevOps Pipelines**
-- 🤖 Improving **ML-powered Job Recommendation Systems**
+- 🤖 Improving **ML-powered  Systems**
 
 
 ---
