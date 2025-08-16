@@ -51,6 +51,17 @@
 ![Networking](https://img.shields.io/badge/-TCP/IP-0052CC?style=flat-square&logo=wireshark&logoColor=white)
 
 ---
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  
+[![Lakindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/lakindu1234)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
