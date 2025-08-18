@@ -61,17 +61,28 @@
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakindu1234&layout=compact&langs_count=8&theme=radical" />
-</p>
+<div align="center">
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakindu1234&layout=compact&langs_count=8&theme=radical&cache_seconds=7200"
+    alt="Top Languages"
+  />
+
+  <br/><br/>
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lakindu1234&show_icons=true&theme=github_dark&cache_seconds=7200"
+    alt="GitHub Stats"
+  />
+
+</div>
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lakindu1234&show_icons=true&theme=github_dark)
 
 
 ## 🌱 Currently Working On
