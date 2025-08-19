@@ -93,19 +93,6 @@
 
 ---
 
-## 🔥 Additional Live Metrics
-
-<div align="center">
-
-<!-- Live Profile Trophy -->
-<img
-  src="https://github-profile-trophy.vercel.app/?username=lakindu1234&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"
-  alt="GitHub Trophies - Live Updates"
-/>
-
-<br/>
-<br/>
-
 
 ## 🔗 Let's Connect
 
