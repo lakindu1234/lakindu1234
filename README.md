@@ -105,15 +105,7 @@
 
 <br/><br/>
 
-<!-- Live Contribution Calendar -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Calendar%20-%20Live%20Updates"
-  alt="Contribution Calendar"
-/>
 
-</div>
-
----
 
 ## 🌱 Currently Working On
 
