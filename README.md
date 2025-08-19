@@ -14,7 +14,7 @@
 
 - 🎓 **Undergraduate** @ University of Westminster  
 - 🧠 Passionate about turning **ideas into code**  
-- ⚙️ Strong in **scalable backend systems**, and automation  
+- ⚙️ Strong in **scalable backend systems** and **automation**  
 - ☁️ Exploring the world of **Cloud, DevOps & AI/ML**  
 - 📬 Reach me at: `lakindumax20062006@gmail.com`
 
@@ -51,23 +51,75 @@
 ![Networking](https://img.shields.io/badge/-TCP/IP-0052CC?style=flat-square&logo=wireshark&logoColor=white)
 
 ---
+
+## 📊 Live GitHub Stats
+
+<div align="center">
+
+<!-- Live Language Stats - Updates automatically based on your recent commits -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakindu1234&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=86400"
+  alt="Top Languages - Live Updates"
+/>
+
+<br/><br/>
+
+<!-- Live GitHub Stats - Real-time stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=lakindu1234&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true&cache_seconds=86400"
+  alt="GitHub Stats - Live Updates"
+/>
+
+<br/><br/>
+
+<!-- GitHub Streak Stats - Live contribution streak -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=lakindu1234&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"
+  alt="GitHub Streak - Live Updates"
+/>
+
+</div>
+
 ---
 
-## 📈 Activity Graph
+## 📈 Live Activity Graph
 
 <div align="center">
   
-[![Lakindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/lakindu1234)
+<!-- Live Contribution Graph - Updates with daily contributions -->
+[![Lakindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)](https://github.com/lakindu1234)
 
+</div>
 
+---
 
+## 🔥 Additional Live Metrics
+
+<div align="center">
+
+<!-- Live Profile Trophy -->
+<img
+  src="https://github-profile-trophy.vercel.app/?username=lakindu1234&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"
+  alt="GitHub Trophies - Live Updates"
+/>
+
+<br/><br/>
+
+<!-- Live Contribution Calendar -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Calendar%20-%20Live%20Updates"
+  alt="Contribution Calendar"
+/>
+
+</div>
+
+---
 
 ## 🌱 Currently Working On
 
 - 📌 Advancing in **Advanced Python & Automation**
 - ☁️ Learning **Cloud Fundamentals + DevOps Pipelines**
-- 🤖 Improving **ML-powered  Systems**
-
+- 🤖 Improving **ML-powered Systems**
 
 ---
 
