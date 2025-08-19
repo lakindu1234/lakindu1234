@@ -103,17 +103,9 @@
   alt="GitHub Trophies - Live Updates"
 />
 
-<br/><br/>
+<br/>
+<br/>
 
-
-
-## 🌱 Currently Working On
-
-- 📌 Advancing in **Advanced Python & Automation**
-- ☁️ Learning **Cloud Fundamentals + DevOps Pipelines**
-- 🤖 Improving **ML-powered Systems**
-
----
 
 ## 🔗 Let's Connect
 
