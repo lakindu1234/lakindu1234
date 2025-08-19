@@ -59,30 +59,7 @@
   
 [![Lakindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/lakindu1234)
 
-</div>
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakindu1234&layout=compact&langs_count=8&theme=radical&cache_seconds=7200"
-    alt="Top Languages"
-  />
-
-  <br/><br/>
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=lakindu1234&show_icons=true&theme=github_dark&cache_seconds=7200"
-    alt="GitHub Stats"
-  />
-
-</div>
-
----
 
 
 ## 🌱 Currently Working On
