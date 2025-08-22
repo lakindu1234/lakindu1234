@@ -58,7 +58,7 @@
 
 <!-- Live Language Stats - Updates automatically based on your recent commits -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakindu1234&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=86400"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakindu1234&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800"
   alt="Top Languages - Live Updates"
 />
 
@@ -66,7 +66,7 @@
 
 <!-- Live GitHub Stats - Real-time stats -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=lakindu1234&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true&cache_seconds=86400"
+  src="https://github-readme-stats.vercel.app/api?username=lakindu1234&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true&cache_seconds=1800"
   alt="GitHub Stats - Live Updates"
 />
 
@@ -74,26 +74,24 @@
 
 <!-- GitHub Streak Stats - Live contribution streak -->
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=lakindu1234&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"
+  src="https://streak-stats.demolab.com/?user=lakindu1234&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"
   alt="GitHub Streak - Live Updates"
 />
 
 </div>
 
-
 ---
+
 ## 📈 Live Activity Graph
 
 <div align="center">
   
 <!-- Live Contribution Graph - Updates with daily contributions -->
-[![Lakindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)](https://github.com/lakindu1234)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&custom_title=GitHub%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117&title_color=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
-
-
 
 ## 🔗 Let's Connect
 
