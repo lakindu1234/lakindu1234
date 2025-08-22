@@ -81,7 +81,17 @@
 </div>
 
 
+---
+## 📈 Live Activity Graph
 
+<div align="center">
+  
+<!-- Live Contribution Graph - Updates with daily contributions -->
+[![Lakindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)](https://github.com/lakindu1234)
+
+</div>
+
+---
 
 
 
