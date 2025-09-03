@@ -75,14 +75,7 @@
 
 ---
 
-## 📈 Live Activity Graph
 
-<div align="center">
-  
-<!-- Live Contribution Graph - Updates with daily contributions -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&custom_title=GitHub%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117&title_color=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
 
 ---
 
