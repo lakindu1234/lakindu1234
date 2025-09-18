@@ -57,10 +57,7 @@
 <div align="center">
 
 <!-- Live Language Stats - Updates automatically based on your recent commits -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakindu1234&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800"
-  alt="Top Languages - Live Updates"
-/>
+
 
 <br/><br/>
 
