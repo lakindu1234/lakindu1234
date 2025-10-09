@@ -50,27 +50,8 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Networking](https://img.shields.io/badge/-TCP/IP-0052CC?style=flat-square&logo=wireshark&logoColor=white)
 
----
-
-## 📊 Live GitHub Stats
-
-<div align="center">
-
-<!-- Live Language Stats - Updates automatically based on your recent commits -->
 
 
-<br/><br/>
-
-
-<!-- GitHub Streak Stats - Live contribution streak -->
-<img
-  src="https://streak-stats.demolab.com/?user=lakindu1234&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"
-  alt="GitHub Streak - Live Updates"
-/>
-
-</div>
-
----
 ## 📈 Live Activity Graph
 
 <div align="center">
