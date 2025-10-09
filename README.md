@@ -50,17 +50,13 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Networking](https://img.shields.io/badge/-TCP/IP-0052CC?style=flat-square&logo=wireshark&logoColor=white)
 
-
+---
 
 ## 📈 Live Activity Graph
 
 <div align="center">
-  
-<!-- Live Contribution Graph - Updates with daily contributions -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&custom_title=GitHub%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117&title_color=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&custom_title=GitHub%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117&title_color=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
-
 
 ---
 
@@ -72,11 +68,20 @@
   </a>
 </p>
 
+
+<p align="center">
+  🌐 <a href="https://portfolio-lakindu1234s-projects.vercel.app/" target="_blank"><b>Visit My Portfolio</b></a>
+</p>
+
 ---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lakindu1234&label=Profile+Views&color=0e75b6&style=flat" alt="lakindu1234" />
 </p>
+
+
+--- 
 
 <p align="center">
   <b>💻 Keep building, keep learning. Thanks for stopping by! 🚀</b>
