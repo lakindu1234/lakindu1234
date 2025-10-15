@@ -51,7 +51,6 @@
 ![Networking](https://img.shields.io/badge/-TCP/IP-0052CC?style=flat-square&logo=wireshark&logoColor=white)
 
 ---
-
 ## 📈 Live Activity Graph
 
 <div align="center">
