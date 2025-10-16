@@ -50,14 +50,6 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Networking](https://img.shields.io/badge/-TCP/IP-0052CC?style=flat-square&logo=wireshark&logoColor=white)
 
----
-## 📈 Live Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakindu1234&custom_title=GitHub%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0d1117&title_color=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
 
 ## 🔗 Let's Connect
 
