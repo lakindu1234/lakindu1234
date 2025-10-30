@@ -61,7 +61,7 @@
 
 
 <p align="center">
-  🌐 <a href="https://portfolio-lakindu1234s-projects.vercel.app/" target="_blank"><b>Visit My Portfolio</b></a>
+  🌐 <a href="https://portfolio-lakindu1234s-projects.vercel.app/" target="_blank"><b>Portfolio</b></a>
 </p>
 
 ---
