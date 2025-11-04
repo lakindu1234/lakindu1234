@@ -61,7 +61,7 @@
 
 
 <p align="center">
-  🌐 <a href="portfolio-eta-puce-99.vercel.app/" target="_blank"><b>Portfolio</b></a>
+  🌐 <a href="https://portfolio-eta-puce-99.vercel.app/" target="_blank"><b>Portfolio</b></a>
 </p>
 
 ---
