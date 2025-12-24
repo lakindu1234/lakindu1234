@@ -5,7 +5,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   < / > Fullstack Developer | ML/AI Explorer | DevOps Pro   ║
+║   < / > Fullstack Developer | ML/AI Explorer | DevOps       ║
 ║                                                              ║
 ║   $ npm run build && python train.py && docker compose up   ║
 ║                                                              ║
