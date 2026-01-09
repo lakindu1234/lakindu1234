@@ -24,7 +24,7 @@ I'm a passionate **Fullstack Developer & AI/ML Explorer** dedicated to crafting 
 
 | Aspect | Details |
 |--------|---------|
-| 🎓 **Education** | Undergraduate @ University of Westminster |
+| 🎓 **Education** | Undergraduate @ University of Westminster UK |
 | 💡 **Drive** | Turning innovative ideas into production-ready code |
 | ⚙️ **Strength** | Scalable backend architecture & automation |
 | ☁️ **Passion** | Cloud infrastructure, DevOps & AI/ML |
