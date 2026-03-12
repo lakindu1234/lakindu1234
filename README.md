@@ -29,7 +29,7 @@ I'm a passionate **Fullstack Developer & AI/ML Explorer** dedicated to crafting 
 | ⚙️ **Strength** | Scalable backend architecture & automation |
 | ☁️ **Passion** | Cloud infrastructure, DevOps & AI/ML |
 | 📧 **Contact** | lakindumax20062006@gmail.com |
-| 🌐 **Portfolio** | [View My Work](https://portfolio-lakidu.vercel.app/) |
+| 🌐 **Portfolio** | [View My Work](https://lakindu1234.github.io/) |
 
 ---
 
@@ -81,7 +81,7 @@ I'm a passionate **Fullstack Developer & AI/ML Explorer** dedicated to crafting 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakidu-minosha-senarathne-a3041a222)
 
-[🌐 **Explore My Portfolio**](https://portfolio-lakidu.vercel.app/)
+[🌐 **Explore My Portfolio**](https://lakindu1234.github.io/)
 
 </div>
 
