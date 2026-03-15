@@ -81,7 +81,7 @@ I'm a passionate **Fullstack Developer & AI/ML Explorer** dedicated to crafting 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakidu-minosha-senarathne-a3041a222)
 
-[🌐 **Explore My Portfolio**](https://lakindu1234.github.io/)
+[** Portfolio**](https://lakindu1234.github.io/)
 
 </div>
 
