@@ -84,7 +84,6 @@ I'm a passionate **Fullstack Developer & AI/ML Explorer** dedicated to crafting 
 [** Portfolio**](https://lakindu1234.github.io/)
 
 </div>
-
 ---
 
 <div align="center">
